@@ -9,3 +9,5 @@ function multiply(a, b) {
 }
 
 console.log(multiply(6, 5));
+
+console.log("new branch features added.");
